@@ -94,5 +94,8 @@ public abstract class Article {
     public String manger(){
         return "manger";
     }
+    /*baydin
+
+     */
 
 }
