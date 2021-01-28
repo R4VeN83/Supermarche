@@ -91,4 +91,8 @@ public abstract class Article {
         return afficherArticle;
     }
 
+    public String manger(){
+        return "manger";
+    }
+
 }
